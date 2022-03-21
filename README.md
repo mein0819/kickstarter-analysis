@@ -30,10 +30,21 @@ arise if the original data was incomplete or orgnanized poorly, causing issues w
 data I was working with.
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Outcomes Based on Launch Date Conclusions
+Based on the data set the best time of year to launch a campaign are the months of May and June. These months had the highest totals of successful
+campaigns and show a nearly 2 to 1 ratio between successful ones and failed and canceled outcomes combined. December shows to be the least favorable 
+month to kick off a campaign. While not having the highest amount of failed Kickstarters, it shows almost an even split between successful and the 
+combination of failed and canceled outcomes.
 
-- What can you conclude about the Outcomes based on Goals?
+### Outcomes Based on Goals Conclusions
+Goals up to $5000 had the highest rate of success as these smaller goals had an almost 3 to 1 success rate.
 
-- What are some limitations of this dataset?
+### Dataset Limitations
+The only possible limitations from this data I can come up with is that both tables may be too broad for what the 
+client is seeking in relation to her campaign. The data from Outcomes Based on Launch Date can be further filtered to only 
+show outcomes from the Plays subcategory from the U.S., and the Outcomes Based on Goals table can be further filtered to only show 
+Plays outcomes from the U.S. as well.
 
-- What are some other possible tables and/or graphs that we could create?
+### Other Possible Tables or Graphs
+Outside of tables applying the filters I mentioned in Dataset Limitations, using a bar graph to show the data for the Outcomes Based on Goals
+table may be better visual representation of that data set.
